@@ -7,7 +7,6 @@ Run the Jupyter Notebook, Daily_User, to load the users.csv file into a Postgres
 Make sure your Python environment has the following library installed:
   1) Pandas
   2) SQLAlchemy
-  3) Numpy
 
 Make sure to enter the following when prompted in order to connect to the Postgress database:
   1) Server name 
